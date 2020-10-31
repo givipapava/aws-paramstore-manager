@@ -1,0 +1,23 @@
+{
+  "name": "givi/aws-paramstore-manager",
+  "description": "IP AWS functions",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Givi Papava",
+      "email": "givi.papava12@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "GiviPapava\\aws-paramstore-manager\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.0",
+    "aws/aws-sdk-php": "3.*"
+  }
+}
