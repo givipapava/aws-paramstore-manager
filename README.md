@@ -18,7 +18,7 @@ Language: PHP <br>
 
 | Name | Version | Description | Date |
 | :---: | --- | --- | --- |
-| PHP ip tools | 1.0.0 | In development | 07-11-2020|
+| Parameter manager| 1.0.0 | In development | 07-11-2020|
 
 ### Parameters file  structure
 ```javascript
