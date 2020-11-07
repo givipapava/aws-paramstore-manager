@@ -1,0 +1,24 @@
+{
+  "data": {
+    "mysql_host": {
+      "paramStore": "db.master.hostname",
+      "local": "localhost"
+    },
+    "mysql_database": {
+      "paramStore": "db.db_name",
+      "local": "test"
+    },
+    "mysql_username": {
+      "paramStore": "db.username",
+      "local": "root"
+    },
+    "mysql_password": {
+      "paramStore": "db.password",
+      "local": "123"
+    },
+    "mysql_port": {
+      "paramStore": "db.port",
+      "local": "3306"
+    }
+  }
+}
