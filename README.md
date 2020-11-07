@@ -1,5 +1,5 @@
 # aws-paramstore-manager
-Manager application secrets  efficienlty.
+Manage application secrets  efficienlty.
 
 
 # Instalation
