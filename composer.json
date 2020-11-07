@@ -12,12 +12,13 @@
   ],
   "autoload": {
     "psr-4": {
-      "GiviPapava\\aws-paramstore-manager\\": "src/"
+      "GiviPapava\\ParameterStoreManager\\": "src/"
     }
   },
   "minimum-stability": "dev",
   "require": {
     "php": ">=7.0",
-    "aws/aws-sdk-php": "3.*"
+    "aws/aws-sdk-php": "^3.0@dev",
+    "ext-json": "*"
   }
 }
